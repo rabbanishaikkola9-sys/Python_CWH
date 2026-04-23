@@ -1,0 +1,7 @@
+tp=(1,'rabbani',True,None)
+print(f"The tuple is :{tp}")
+no=tp.count(12)
+print(f"The 12 is {no} times")
+print(tp.index(None))
+print(tp.index('rabbani'))
+print(tp.index(True))
