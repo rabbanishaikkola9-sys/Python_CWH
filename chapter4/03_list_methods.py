@@ -9,3 +9,5 @@ print(li)
 # Using the insert method
 li1.insert(0,12)  # insert 12 at index 0 at li1
 print(li1)
+li1.remove(12)
+print(li1)
