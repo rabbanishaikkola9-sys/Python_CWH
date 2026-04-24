@@ -9,5 +9,7 @@ print(li)
 # Using the insert method
 li1.insert(0,12)  # insert 12 at index 0 at li1
 print(li1)  
-li1.remove(12)
+li1.remove(12)   # removing 12 from li1
+print(li1)
+li1.pop(0)  # pop the element at index 0 from li1
 print(li1)
