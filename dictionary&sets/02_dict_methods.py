@@ -19,6 +19,6 @@ dict.update({"heck":"world"})
 print(dict)
 # get gives none and normally the output is syntax if get is not used 
 
-# keys(),items(),values(),get(),update({}) are the methods used in dictionaries
+# keys(),items(),values(),get(),update({}) are the methods used in dictionaries these are the primarily used methods or functions in Python
 
 

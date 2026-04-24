@@ -8,4 +8,7 @@ print({1,2,5}.issubset(s1))  # the elements with in the sets are subset of set
 print("Printing the empty set")
 empty_set=set()
 print(empty_set,type(empty_set))
+# Using the superset() 
+print(s1.issuperset({1,5}))
+# print(s1)
 
