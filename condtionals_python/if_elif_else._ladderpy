@@ -1,0 +1,14 @@
+a=int(input("Enter your age:\n"))
+# if elif and else Ladder 
+if(a>=18):
+    print("You are eligible to vote")
+    print("You can vote so good to go")
+elif(a<0):
+        print("You are entering the invalid age")
+elif(a==0):
+    print("you are entering 0 which is not valid age")     
+else:
+        print("You are negative person change yourself")
+        print("you are not eligible to vote")
+print("End of the if and else conditon")
+# This is if elif and else ladder in python
