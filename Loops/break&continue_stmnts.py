@@ -4,5 +4,5 @@ for i  in range(0,20):
     print(i)
 for j in range(0,20):
     if(j<20 and j!=2):
-        continue
+        continue  # skip this iteration
     print(j)
