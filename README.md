@@ -17,3 +17,5 @@ To build strong Python fundamentals and start creating real-world projects.
 ## Next Step
 
 * Build mini projects like calculator and to-do app
+
+* **Note: PS in the repos means practice session**
