@@ -8,3 +8,4 @@ for i in range(1,n+1):
     # print("*"*(n-i))
     print("*"*(2*i-1),end="")
     print(" ")  # can also use \n
+print("end of the half pyramid or pattern")
