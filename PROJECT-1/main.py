@@ -1,3 +1,4 @@
+#*************** *************** FIRST PROJECT   ******************************  #
 '''
 1 for snake
 -1 for water
@@ -6,7 +7,7 @@
 """
  Snake drinks/beats Water, Water douses/beats Gun, and Gun shoots/beats Snake
 
- 
+
 """
 import random
 
@@ -37,7 +38,7 @@ else:
     elif(you==0 and computer==-1):
         print("You won!!")
     elif(you==1 and computer==0):
-        print("you won")
+        print("you lost")
     elif(you==1 and computer==-1):
         print("You won")
     elif(you==-1 and computer==0):
@@ -46,4 +47,11 @@ else:
         print("you lost and computer wins")
     else:
         print("Somethig went wrong")
+
+'''
+if(computer-you==1 or computer-1==-2):
+    print('You won')
+    else:
+    print('You lost')
+'''
 
