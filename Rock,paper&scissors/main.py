@@ -28,13 +28,13 @@ else:
     elif(you ==0 and computer==-1):
         print("You won!!")
     elif(you==1 and computer==0):
-        print("You won!!")
+        print("You lose, Computer won!!")
     elif(you==1 and computer==-1):
         print("You lose, Computer won!!")
     elif(you==-1 and computer==0):
         print("you lose, Computer won!!")
     elif(you==1 and computer==-1):
-        print("You lost, Computer wons")
+        print("You lost, Computer won")
     elif(you==-1 and computer==0):
         print("You lost, computer won!!")
     elif(you==-1 and computer==1):
